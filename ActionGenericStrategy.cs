@@ -48,3 +48,4 @@
               // Adiciona alguma chamada de metodo  
             });
         }
+    }
